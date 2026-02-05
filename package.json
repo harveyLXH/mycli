@@ -8,9 +8,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "homepage": "https://github.com/harveyLXH/mycli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harveyLXH/mycli"
+  },
+  "author": "harve",
   "license": "ISC",
-  "description": "",
+  "description": "脚手架工具",
   "dependencies": {
     "@inquirer/prompts": "^8.2.0",
     "chalk": "^4.1.2",
